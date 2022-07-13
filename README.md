@@ -53,10 +53,6 @@
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=004D98)
 ![](https://img.shields.io/badge/Tools-ArcGIS-informational?style=flat&logo=&logoColor=white&color=004D98)
 
-<div id ="world"> 
-  <img src="https://img2.storyblok.com/1200x200/filters:quality(70)/f/59016/400x280/65ad777c64/webdevelopment.jpg"/>
-</div>
-
 -------
 
 &nbsp;
