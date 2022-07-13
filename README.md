@@ -8,25 +8,22 @@
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [1]: https://www.linkedin.com/in/aagr-abdullah/
-<div id ="world"> 
-  <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=600/uploads/users/30/posts/23166/image/tb050.png"/>
-</div>
 
-------
+<!---
 
 &nbsp;
 
 ---
 ## 🎓 Education
 #### University of Houston
-- **Bachelor of Business Administration** (2020-24)
-- **Major:** Management Information Systems
-- **Minors:** Sales + Data and Society
+- **Bachelor of Business Administration** in Management Information Systems (2020-24)
 <div id ="school"> 
   <img src="https://media-exp1.licdn.com/dms/image/C561BAQEp6qkOgtR9Pg/company-background_10000/0/1651157140765?e=2147483647&v=beta&t=uFsCkyU9IFILUtF-vDb8SSAc_lQ9fZJBt0XNTeZnokk"/>
 </div>
 
 ------
+
+--->
 
 &nbsp;
 
@@ -53,7 +50,22 @@
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=004D98)
 ![](https://img.shields.io/badge/Tools-ArcGIS-informational?style=flat&logo=&logoColor=white&color=004D98)
 
+------
+
+&nbsp;
+
 -------
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/aagr-abdullah/aagr-abdullah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aagr-abdullah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abdullah's GitHub Stats" />
+</a>
+<a href="https://github.com/aagr-abdullah/aagr-abdullah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagr-abdullah&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+-----
 
 &nbsp;
 
@@ -89,23 +101,6 @@
 ![](https://img.shields.io/badge/Skills-Organizational_Behavior-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 
 ------
-
-&nbsp;
-
--------
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/aagr-abdullah/aagr-abdullah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aagr-abdullah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abdullah's GitHub Stats" />
-</a>
-<a href="https://github.com/aagr-abdullah/aagr-abdullah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagr-abdullah&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
------
-
-&nbsp;
 <!---
 aagr-abdullah/aagr-abdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
