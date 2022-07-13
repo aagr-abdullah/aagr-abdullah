@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://github.com/aagr-abdullah/aagr-abdullah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagr-abdullah&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagr-abdullah&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" />
 </a>
 
 -----
