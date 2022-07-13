@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/Tools-UML-informational?style=flat&logo=&logoColor=white&color=004D98)<br/>
 ![](https://img.shields.io/badge/Skills-Business_Process_Modeling-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 ![](https://img.shields.io/badge/Skills-Data_Modeling-informational?style=flat&logo=&logoColor=white&color=EDBB00)
-![](https://img.shields.io/badge/Skills-Fundamental_Data_Structures-informational?style=flat&logo=&logoColor=white&color=EDBB00)
+![](https://img.shields.io/badge/Skills-Fundamental_Data_Structures_and_Algorithms-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 #### Business
 ![](https://img.shields.io/badge/Tools-Salesforce_CRM-informational?style=flat&logo=Salesforce&logoColor=white&color=004D98)<br/>
 ![](https://img.shields.io/badge/Skills-Financial_Accounting-informational?style=flat&logo=&logoColor=white&color=EDBB00)
