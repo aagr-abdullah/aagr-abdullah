@@ -2,8 +2,8 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, World!
 - 👋 I’m Abdullah Ghafoor
-- 👀 I’m interested in data analytics and business intelligence
-- 🌱 I’m currently learning R, SQL, and PowerBI
+- 👀 Interested in data analytics and business intelligence
+- 🌱 Currently learning R, SQL, and PowerBI
 - 📫 You can find me on [![LinkedIn][1.2]][1]
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
@@ -65,7 +65,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aagr-abdullah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abdullah's GitHub Stats" />
 </a>
 <a href="https://github.com/aagr-abdullah/aagr-abdullah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagr-abdullah&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagr-abdullah&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 -----
