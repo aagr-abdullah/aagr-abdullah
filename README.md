@@ -85,12 +85,11 @@
 ![](https://img.shields.io/badge/Skills-Geographic_Information_Systems-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 ![](https://img.shields.io/badge/Skills-Business_Intelligence-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 ![](https://img.shields.io/badge/Skills-Database_Management-informational?style=flat&logo=&logoColor=white&color=EDBB00)
-![](https://img.shields.io/badge/Skills-Transaction_Processing-informational?style=flat&logo=&logoColor=white&color=EDBB00)<br/>
+![](https://img.shields.io/badge/Skills-Transaction_Processing-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 ![](https://img.shields.io/badge/Skills-Data_Mining-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 ![](https://img.shields.io/badge/Skills-Data_Visualization-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 ![](https://img.shields.io/badge/Skills-Machine_Learning-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 ![](https://img.shields.io/badge/Skills-Deep_Learning-informational?style=flat&logo=&logoColor=white&color=EDBB00)
-![](https://img.shields.io/badge/Skills-Statistical_Learning-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 ![](https://img.shields.io/badge/Skills-Natural_Language_Processing-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 #### Business
 ![](https://img.shields.io/badge/Skills-IT_Project_Management-informational?style=flat&logo=&logoColor=white&color=EDBB00)
