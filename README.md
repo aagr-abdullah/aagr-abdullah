@@ -57,21 +57,6 @@
 
 &nbsp;
 
--------
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/aagr-abdullah/aagr-abdullah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aagr-abdullah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abdullah's GitHub Stats" />
-</a>
-<a href="https://github.com/aagr-abdullah/aagr-abdullah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagr-abdullah&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
------
-
-&nbsp;
-
 -----
 ## 🎓 Future Learning
 #### Technical
@@ -104,6 +89,23 @@
 ![](https://img.shields.io/badge/Skills-Organizational_Behavior-informational?style=flat&logo=&logoColor=white&color=EDBB00)
 
 ------
+
+&nbsp;
+
+-------
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/aagr-abdullah/aagr-abdullah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aagr-abdullah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abdullah's GitHub Stats" />
+</a>
+<a href="https://github.com/aagr-abdullah/aagr-abdullah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aagr-abdullah&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+-----
+
+&nbsp;
 <!---
 aagr-abdullah/aagr-abdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
